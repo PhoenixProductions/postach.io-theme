@@ -362,8 +362,8 @@ div.header div.site-description ul li a.active {
 div.header a.logo {
   display: block;
   position: relative;
-  width: 85px;
-  height: 85px;
+  width: 120px;
+  height: 120px;
   border: 0px solid #000000;
   background-color: #000000;
   margin: 0 auto;
@@ -485,6 +485,7 @@ div.post div.post-body {
   font-weight: 400;
   font-size: 18px;
   line-height: 28px;
+  padding-bottom: 10px;
 }
 div.post div.post-body .post-content {
   display: block;
