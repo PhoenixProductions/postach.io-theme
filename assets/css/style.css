@@ -176,6 +176,7 @@
   font-size: 13px;
   font-size: 0.8125rem;
 }
+/*1abc9c;*/
 html {
   font-size: 100%;
 }
@@ -233,15 +234,15 @@ input[type="button"].btn {
 }
 a {
   text-decoration: none;
-  color: #1abc9c;
+  color: #ff8c0d;
 }
 a:visited {
-  color: #1abc9c;
+  color: #ff8c0d;
 }
 a:hover {
   color: #000000;
   text-decoration: none;
-  color: #1abc9c;
+  color: #ff8c0d;
 }
 div.header {
   position: fixed;
@@ -306,7 +307,7 @@ div.header div.title ul.social li a {
   margin: 0 5px 0 5px;
 }
 div.header div.title ul.social li a:hover {
-  background-color: #1abc9c;
+  background-color: #ff8c0d;
 }
 div.header div.bg-img {
   position: absolute;
@@ -356,7 +357,7 @@ div.header div.site-description ul li a {
 }
 div.header div.site-description ul li a:hover,
 div.header div.site-description ul li a.active {
-  color: #1abc9c;
+  color: #ff8c0d;
 }
 div.header a.logo {
   display: block;
@@ -371,7 +372,7 @@ div.header a.logo {
   /*.rounded(50%);*/
 }
 div.header a.logo:hover {
-  background-color: #1abc9c;
+  background-color: #ff8c0d;
 }
 div.header a.logo img {
   /*.rounded(50%);*/
@@ -625,7 +626,7 @@ div.post p.back {
 }
 div.post p.read-more a,
 div.post p.back a {
-  color: #1abc9c;
+  color: #ff8c0d;
 }
 div.post p.read-more a:hover,
 div.post p.back a:hover {
@@ -643,7 +644,7 @@ div.post p.comments a {
   color: #999999;
 }
 div.post p.comments a:hover {
-  color: #1abc9c;
+  color: #ff8c0d;
 }
 div.post h1 {
   font-size: 38px;
@@ -659,7 +660,7 @@ div.post h2 a {
   color: #000000;
 }
 div.post h2 a:hover {
-  color: #1abc9c;
+  color: #ff8c0d;
 }
 div.post div.post-body ul li,
 div.post div.post-body ol li {
@@ -726,7 +727,7 @@ div.post ul.post-tags li a {
   border-radius: 10px;
   margin: 0 5px 0 0;
   display: inline-block;
-  background-color: #1abc9c;
+  background-color: #ff8c0d;
   color: #ffffff;
 }
 div.post ul.post-tags li a:hover {
@@ -819,7 +820,7 @@ div.footer p.copyright a {
   color: #999999;
 }
 div.footer p.copyright a:hover {
-  color: #1abc9c;
+  color: #ff8c0d;
 }
 div.footer ul {
   display: block;
@@ -831,7 +832,7 @@ div.footer ul li a {
   text-transform: uppercase;
   display: inline-block;
   margin: 0 30px 0 0;
-  color: #1abc9c;
+  color: #ff8c0d;
   font-size: 12px;
   font-weight: 700;
   letter-spacing: 1px;
