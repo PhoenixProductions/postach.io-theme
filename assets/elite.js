@@ -3,7 +3,7 @@ $(document).ready(function() {
 	$('.eddate').each(function() { 
 		var d = new Date($(this).html()); 
 		d.setFullYear(d.getFullYear() + 1286); 
-		$(this).html(d.getFullYear() +"-"+ d.getMonth() +"-"+ d.getDay()  +" "+ d.getHours() +":"+d.getMinutes() + d.getSeconds()
+		$(this).html(d.getFullYear() +"-"+ d.getMonth() +"-"+ d.getDay()  +" "+ d.getHours() +":"+d.getMinutes() +":"+ d.getSeconds()
 		)
 	});
 });	
