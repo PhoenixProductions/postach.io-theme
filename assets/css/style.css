@@ -368,17 +368,13 @@ div.header a.logo {
   margin: 0 auto;
   margin-top: 80px;
   text-align: center;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
+  /*.rounded(50%);*/
 }
 div.header a.logo:hover {
   background-color: #1abc9c;
 }
 div.header a.logo img {
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
+  /*.rounded(50%);*/
 }
 div.header a.logo i {
   position: relative;
@@ -574,6 +570,7 @@ div.post div.post-body .post-content h3 {
 }
 div.post div.post-body .post-content img {
   max-width: 100%;
+  height: auto;
 }
 div.post div.post-body .post-content .mejs-container {
   margin-top: 7.5px;
