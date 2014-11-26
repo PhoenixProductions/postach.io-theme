@@ -90,8 +90,7 @@
             {% endif %}
 
             {% if site.linkedin %}
-            <li>
-              <a href="{{ site.linkedin }}" title="LinkedIn" target="_blank">
+            <li>k">
                 <i class="icon-linkedin"></i> LinkedIn
               </a>
             </li>
@@ -144,7 +143,7 @@
             </div>
             <div class="post-info">
               <div class="info-left">
-                <p class="date">{{ post.created_at|format_date }}</p>
+                <p class="date">{{ post.created_at|format_date }} {{ post.created_at }}</p>
               </div>
               <div class="info-right">
                 <p class="read-more"><a href="{{ post.permalink }}">Read More &raquo;</a></p>
