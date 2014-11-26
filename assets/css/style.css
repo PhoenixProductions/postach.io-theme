@@ -363,7 +363,7 @@ div.header a.logo {
   position: relative;
   width: 85px;
   height: 85px;
-  border: 10px solid #ffffff;
+  border: 0px solid #000000;
   background-color: #000000;
   margin: 0 auto;
   margin-top: 80px;
